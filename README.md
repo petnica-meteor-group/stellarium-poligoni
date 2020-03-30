@@ -13,13 +13,19 @@ Da bi ste ih ubacili u Stellarium, potrebno je da preuzmete arhivu **stellarium-
 
 **Slika** **1** Izgled instalacionog direktorijuma sa poligonima na Windows-u
 
+![Izgled instalacionog direktorijuma sa poligonima na Linux-u](/uputstvo/slika2.png)
+
+
+**Slika** **2** Izgled instalacionog direktorijuma sa poligonima na Linux-u
+
 Nakon kopiranja foldera poligoni u Stellarium direktorijum, potrebno je sazvežđa prebaciti na LMG poligone (koji uključuju standardna sazvežđa i poligone kao asterizme).
 
 U Stellariumu izabrati **Sky and viewing options window** -> **Starlore** i iz liste izabrati opciju **LMG poligoni.**
 
-![Izgled instalacionog direktorijuma sa poligonima na Linux-u](/uputstvo/slika2.png)
+Zbog lakšeg pregleda, zgodno je odmah promeniti i boju linija asterizama, kod opcije **Show asterism lines**.
 
-**Slika** **2** Izgled instalacionog direktorijuma sa poligonima na Linux-u
+
+
 
 ![Izgled menija Sky and viewing options, opcija Starlore sa selektovanim LMG poligonima](/uputstvo/slika3.png)
 
