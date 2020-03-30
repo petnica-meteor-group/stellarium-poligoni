@@ -52,7 +52,7 @@ Skyculture opcija sastoji se iz dva layer-a – Constellation i Asterism. Fajlov
 - **description.en.utf8** – fajl sa opisom koji se vidi u Stellariumu u Starlore meniju
 - **info.ini** – fajl koji definiše naziv skyculture-a
 - **reference.fab** – fajl u kome su reference za dati skyculture
-- star_names.fab
+- **star_names.fab** – fajl u kome su nazivi zvezda i kroz koji su dodate magnitude graničnih zvezda u naziv 
 - PNG slike sazvežđa
 
 Boldovani i opisani su fajlovi koje je bilo potrebno izmeniti kako bi se dodali poligoni kao asterizmi. Na sličan način se menjaju i definicije sazvežđa.
@@ -66,4 +66,4 @@ Na slici 4 prikazani su fajlovi kojima su definisane oblasti. Na slici 4.2 prva 
 
 | O1 | 1 | 4 | 94376 89937 | 89937 83895 | 83895 87585 | 87585 94376 |
 |--|--|--|--|--|--|--|
-| ID oblasti |  | Broj linija | 1. linija | 2. linija | 3.linija | 4.linija |
+| ID oblasti | klasa | Broj linija | 1. linija | 2. linija | 3.linija | 4.linija |
