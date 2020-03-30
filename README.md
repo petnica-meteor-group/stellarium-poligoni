@@ -2,7 +2,7 @@
 
 Počevši od verzije Stellarium-a 0.16.1 (2016. godina), prisutna je opcija sazvežđa i asterizama kao dva odvojena layer-a. LMG poligoni su u Stellarium su implementirani kao layer asterizama.
 
-Da bi ste ih ubacili u Stellarium, potrebno je da arhivu **poligoni.zip** raspakujete u instalacioni direktorijum na lokaciji:  
+Da bi ste ih ubacili u Stellarium, potrebno je da preuzmete arhivu **stellarium-poligoni-master.zip** pritiskom na zeleno dugme **Clone or download** -> **Download ZIP** i nakon preuzimanja, fajlove iz arhive raspakujete u instalacioni direktorijum Stellarium-a na lokaciji:  
 
 
 **Windows** ->  **`C:\Program Files\Stellarium\skycultures\poligoni`**
