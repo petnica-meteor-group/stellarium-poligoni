@@ -9,11 +9,11 @@ Da bi ste ih ubacili u Stellarium, potrebno je da preuzmete arhivu **stellarium-
 
 **Linux** ->  **`/usr/share/stellarium/skycultures/poligoni`**
 
-![Izgled instalacionog direktorijuma sa poligonima na Windows-u](/uputstvo/slika1.png)
+![Izgled instalacionog direktorijuma sa poligonima na Windows-u](/poligoni/uputstvo/slika1.png)
 
 **Slika** **1** Izgled instalacionog direktorijuma sa poligonima na Windows-u
 
-![Izgled instalacionog direktorijuma sa poligonima na Linux-u](/uputstvo/slika2.png)
+![Izgled instalacionog direktorijuma sa poligonima na Linux-u](/poligoni/uputstvo/slika2.png)
 
 
 **Slika** **2** Izgled instalacionog direktorijuma sa poligonima na Linux-u
@@ -27,7 +27,7 @@ Zbog lakšeg pregleda, zgodno je odmah promeniti i boju linija asterizama, kod o
 
 
 
-![Izgled menija Sky and viewing options, opcija Starlore sa selektovanim LMG poligonima](/uputstvo/slika3.png)
+![Izgled menija Sky and viewing options, opcija Starlore sa selektovanim LMG poligonima](/poligoni/uputstvo/slika3.png)
 
 **Slika** **3** Izgled menija **Sky and viewing options**, opcija **Starlore** sa selektovanim LMG poligonima
 
@@ -58,7 +58,7 @@ Skyculture opcija sastoji se iz dva layer-a – Constellation i Asterism. Fajlov
 Boldovani i opisani su fajlovi koje je bilo potrebno izmeniti kako bi se dodali poligoni kao asterizmi. Na sličan način se menjaju i definicije sazvežđa.
 
 
-| ![Definicije imena oblasti](/uputstvo/slika41.PNG) | ![Definisanje linija koje ograničavaju poligon](/uputstvo/slika42.PNG) | 
+| ![Definicije imena oblasti](/poligoni/uputstvo/slika41.PNG) | ![Definisanje linija koje ograničavaju poligon](/poligoni/uputstvo/slika42.PNG) | 
 |--|--|
 |  **Slika 4.1** Definicije imena oblasti | **Slika 4.2** Definisanje linija koje ograničavaju poligon |
 
