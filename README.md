@@ -7,7 +7,7 @@ Da bi ste ih ubacili u Stellarium, potrebno je da preuzmete arhivu **stellarium-
 
 **Windows** ->  **`C:\Program Files\Stellarium\skycultures\poligoni`**
 
-**Linux** ->  **`/usr/share/stellarium/skycultures/poligoni`**
+**Linux** ->  **`/usr/share/stellarium/skycultures/poligoni`** <sup>1</sup>
 
 ![Izgled instalacionog direktorijuma sa poligonima na Windows-u](/poligoni/uputstvo/slika1.png)
 
@@ -34,7 +34,7 @@ Zbog lakšeg pregleda, zgodno je odmah promeniti i boju linija asterizama, kod o
 
 
 ----------
-Prilikom dodavanja foldera u Linuxu u sistemski direktorijum nije moguć direktni copy/paste pa je najlakše folder poligoni raspakovati na Desktop i koristiti komandu za pomeranje **mv**  u terminalu:
+1) *Prilikom dodavanja foldera u Linuxu u sistemski direktorijum nije moguć direktni copy/paste pa je najlakše folder poligoni raspakovati na Desktop i koristiti komandu za pomeranje **mv**  u terminalu:
 
 **`sudo mv /home/vaš-username/Desktop/poligoni /usr/share/stellarium/skycultures/poligoni`**
 
