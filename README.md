@@ -1,6 +1,6 @@
 ## **Dodavanje LMG poligona u Stellarium**
 
-Počevši od verzije Stellarium-a 0.16.1 (2016. godina), prisutna je opcija sazvežđa i asterizama kao dva odvojena layer-a. LMG poligoni su u Stellarium su implementirani kao layer asterizama.
+Počevši od verzije Stellarium-a 0.16.1 (2016. godina), prisutna je opcija sazvežđa i asterizama kao dva odvojena layer-a za prikaz. Za LMG poligone u Stellariumu iskoristili smo tu opciju i ubacili ih kao layer asterizama kako bi istovremeno bila vidljiva i sazvežđa i poligoni.
 
 Da bi ste ih ubacili u Stellarium, potrebno je da preuzmete arhivu **stellarium-poligoni-master.zip** pritiskom na zeleno dugme **Clone or download** -> **Download ZIP** i nakon preuzimanja, fajlove iz arhive raspakujete u instalacioni direktorijum Stellarium-a na lokaciji:  
 
@@ -66,4 +66,4 @@ Na slici 4 prikazani su fajlovi kojima su definisane oblasti. Na slici 4.2 prva 
 
 | O1 | 1 | 4 | 94376 89937 | 89937 83895 | 83895 87585 | 87585 94376 |
 |--|--|--|--|--|--|--|
-| ID oblasti | klasa | Broj linija | 1. linija | 2. linija | 3.linija | 4.linija |
+| ID oblasti | klasa | broj linija | 1. linija | 2. linija | 3.linija | 4.linija |
