@@ -9,7 +9,7 @@ Da bi ste ih ubacili u Stellarium, potrebno je da preuzmete arhivu **stellarium-
 
 **Linux** ->  **`/usr/share/stellarium/skycultures/poligoni`**
 
-![Izgled instalacionog direktorijuma sa poligonima na Windows-u](https://lh5.googleusercontent.com/SUC8v9i_FzVRUxTQDJJD7hRORlIKIQRRmkks1OiFEMVqQvxbuOWg1QEK2USXqT-ft8nbQr5zMkeRi5kP8H4S=w1920-h910)
+![Izgled instalacionog direktorijuma sa poligonima na Windows-u](https://raw.githubusercontent.com/petnica-meteor-group/stellarium-poligoni/master/uputstvo/slika1.png)
 
 **Slika** **1** Izgled instalacionog direktorijuma sa poligonima na Windows-u
 
