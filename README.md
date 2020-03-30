@@ -10,6 +10,7 @@ Da bi ste ih ubacili u Stellarium, potrebno je da arhivu **poligoni.zip** raspak
 **Linux** ->  **`/usr/share/stellarium/skycultures/poligoni`**
 
 ![Izgled instalacionog direktorijuma sa poligonima na Windows-u](https://lh5.googleusercontent.com/SUC8v9i_FzVRUxTQDJJD7hRORlIKIQRRmkks1OiFEMVqQvxbuOWg1QEK2USXqT-ft8nbQr5zMkeRi5kP8H4S=w1920-h910)
+
 **Slika** **1** Izgled instalacionog direktorijuma sa poligonima na Windows-u
 
 Nakon kopiranja foldera poligoni u Stellarium direktorijum, potrebno je sazvežđa prebaciti na LMG poligone (koji uključuju standardna sazvežđa i poligone kao asterizme).
@@ -17,9 +18,11 @@ Nakon kopiranja foldera poligoni u Stellarium direktorijum, potrebno je sazvež�
 U Stellariumu izabrati **Sky and viewing options window** -> **Starlore** i iz liste izabrati opciju **LMG poligoni.**
 
 ![Izgled instalacionog direktorijuma sa poligonima na Linux-u](https://lh6.googleusercontent.com/9bLEPiTrwIWYP_Ui0Xh_CXeJAetHJmx08JdXkLl0a3DblnFNUeFwe7lSZobfLF7ERLIeNSQ5P_5nU-YxiyMJ=w1920-h910)
+
 **Slika** **2** Izgled instalacionog direktorijuma sa poligonima na Linux-u
 
 ![Izgled menija Sky and viewing options, opcija Starlore sa selektovanim LMG poligonima](https://lh3.googleusercontent.com/Uw0ioJsHZZaxxQwLZtbDh-Tz3A04IErXEfldVSx4Ys63BC7Qnr0WWVmQycOjXb5dgqLd-F5SJ_5Q7h2-AVPz=w1920-h910)
+
 **Slika** **3** Izgled menija **Sky and viewing options**, opcija **Starlore** sa selektovanim LMG poligonima
 
 
