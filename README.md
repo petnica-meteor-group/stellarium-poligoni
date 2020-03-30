@@ -9,6 +9,7 @@ Da bi ste ih ubacili u Stellarium, potrebno je da arhivu **poligoni.zip** raspak
 
 **Linux** ->  **`/usr/share/stellarium/skycultures/poligoni`**
 
+![Izgled instalacionog direktorijuma sa poligonima na Windows-u](https://lh5.googleusercontent.com/SUC8v9i_FzVRUxTQDJJD7hRORlIKIQRRmkks1OiFEMVqQvxbuOWg1QEK2USXqT-ft8nbQr5zMkeRi5kP8H4S=w1920-h910)
 **Slika** **1** Izgled instalacionog direktorijuma sa poligonima na Windows-u
 
 Nakon kopiranja foldera poligoni u Stellarium direktorijum, potrebno je sazvežđa prebaciti na LMG poligone (koji uključuju standardna sazvežđa i poligone kao asterizme).
