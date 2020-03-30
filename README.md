@@ -5,9 +5,9 @@ Počevši od verzije Stellarium-a 0.16.1 (2016. godina), prisutna je opcija sazv
 Da bi ste ih ubacili u Stellarium, potrebno je da arhivu **poligoni.zip** raspakujete u instalacioni direktorijum na lokaciji:  
 
 
-**Windows** ->  **C:\Program Files\Stellarium\skycultures\poligoni**
+**Windows** ->  **`C:\Program Files\Stellarium\skycultures\poligoni`**
 
-**Linux** ->  **/usr/share/stellarium/skycultures/poligoni**
+**Linux** ->  **`/usr/share/stellarium/skycultures/poligoni`**
 
 **Slika** **1** Izgled instalacionog direktorijuma sa poligonima na Windows-u
 
