@@ -17,11 +17,11 @@ Nakon kopiranja foldera poligoni u Stellarium direktorijum, potrebno je sazveÅ¾Ä
 
 U Stellariumu izabrati **Sky and viewing options window** -> **Starlore** i iz liste izabrati opciju **LMG poligoni.**
 
-![Izgled instalacionog direktorijuma sa poligonima na Linux-u](https://lh6.googleusercontent.com/9bLEPiTrwIWYP_Ui0Xh_CXeJAetHJmx08JdXkLl0a3DblnFNUeFwe7lSZobfLF7ERLIeNSQ5P_5nU-YxiyMJ)
+![Izgled instalacionog direktorijuma sa poligonima na Linux-u](https://lh6.googleusercontent.com/1-mQ6tJHXjkIMXYZZ8_koGYo_5PVY9f1ekdE4ZpexLr6WkjPIaIQ7xUs3fZdaz23ZormwtkoNl_IZknQyl09=w1920-h910)
 
 **Slika** **2** Izgled instalacionog direktorijuma sa poligonima na Linux-u
 
-![Izgled menija Sky and viewing options, opcija Starlore sa selektovanim LMG poligonima](https://lh6.googleusercontent.com/9bLEPiTrwIWYP_Ui0Xh_CXeJAetHJmx08JdXkLl0a3DblnFNUeFwe7lSZobfLF7ERLIeNSQ5P_5nU-YxiyMJ=w1920-h910)
+![Izgled menija Sky and viewing options, opcija Starlore sa selektovanim LMG poligonima](https://lh5.googleusercontent.com/KTdqoR7S9rrbY4Ghxa5QhOYc4CP14wUQszKEr4YRu2QIW1MHmAx5q9VHwqgM7N4odZAqhkf_vNE_d3APlkDC=w1920-h910)
 
 **Slika** **3** Izgled menija **Sky and viewing options**, opcija **Starlore** sa selektovanim LMG poligonima
 
