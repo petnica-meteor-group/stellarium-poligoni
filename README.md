@@ -16,8 +16,10 @@ Nakon kopiranja foldera poligoni u Stellarium direktorijum, potrebno je sazvež�
 
 U Stellariumu izabrati **Sky and viewing options window** -> **Starlore** i iz liste izabrati opciju **LMG poligoni.**
 
+![Izgled instalacionog direktorijuma sa poligonima na Linux-u](https://lh6.googleusercontent.com/9bLEPiTrwIWYP_Ui0Xh_CXeJAetHJmx08JdXkLl0a3DblnFNUeFwe7lSZobfLF7ERLIeNSQ5P_5nU-YxiyMJ=w1920-h910)
 **Slika** **2** Izgled instalacionog direktorijuma sa poligonima na Linux-u
 
+![Izgled menija Sky and viewing options, opcija Starlore sa selektovanim LMG poligonima](https://lh3.googleusercontent.com/Uw0ioJsHZZaxxQwLZtbDh-Tz3A04IErXEfldVSx4Ys63BC7Qnr0WWVmQycOjXb5dgqLd-F5SJ_5Q7h2-AVPz=w1920-h910)
 **Slika** **3** Izgled menija **Sky and viewing options**, opcija **Starlore** sa selektovanim LMG poligonima
 
 
@@ -47,10 +49,9 @@ Skyculture opcija sastoji se iz dva layer-a – Constellation i Asterism. Fajlov
 Boldovani i opisani su fajlovi koje je bilo potrebno izmeniti kako bi se dodali poligoni kao asterizmi. Na sličan način se menjaju i definicije sazvežđa.
 
 
-
-**Slika 4.2** Definisanje linija koje ograničavaju poligon
-
- **Slika 4.1** Definicije imena oblasti
+| ![Definicije imena oblasti](https://lh4.googleusercontent.com/SI96Q-lK4ibuEoeJj5O2J38eXtjoRflC6vRAfYy61GoECpPGEmfPCa0OtgF56kXFTU7-ZY2vGBLtaxbq6adp=w1920-h910) | ![Definisanje linija koje ograničavaju poligon](https://lh3.googleusercontent.com/rjequq9uFCr8msaCY1tAVfrNi_WT-i2rh3icl_VW1H2KFSMms3QFrHGUiC8r6zykMohqWe8uRuxYgrCQUJo6=w1920-h910) | 
+|--|--|
+|  **Slika 4.1** Definicije imena oblasti | **Slika 4.2** Definisanje linija koje ograničavaju poligon |
 
 Na slici 4 prikazani su fajlovi kojima su definisane oblasti. Na slici 4.2 prva kolona su nazivi promenljive datog asterizma. Druga kolona klasa objekta u Skyculture-u (1 – asterism). Treća kolona predstavlja broj zvezda koje definišu dati asterizam. Četvrta kolona su linije asterizma definisane preko HIP oznaka graničnih zvezda:
 
