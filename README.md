@@ -24,7 +24,7 @@ U Stellariumu izabrati **Sky and viewing options window** -> **Starlore** i iz l
 ----------
 Prilikom dodavanja foldera u Linuxu u sistemski direktorijum nije moguć direktni copy/paste pa je najlakše folder poligoni raspakovati na Desktop i koristiti komandu za pomeranje **mv**  u terminalu:
 
-**sudo mv /home/vaš-username/Desktop/poligoni /usr/share/stellarium/skycultures/poligoni**
+**`sudo mv /home/vaš-username/Desktop/poligoni /usr/share/stellarium/skycultures/poligoni`**
 
   
   
